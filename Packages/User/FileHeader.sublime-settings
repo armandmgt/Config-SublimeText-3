@@ -1,0 +1,7 @@
+{
+  "file_suffix_mapping": {
+    "h": "CHeader"
+  },
+  "custom_template_header_path": "/home/armandmgt/.config/sublime-text-3/Packages/User/FileHeaderTemplates",
+  "custom_template_body_path": "/home/armandmgt/.config/sublime-text-3/Packages/User/FileHeaderTemplates"
+}

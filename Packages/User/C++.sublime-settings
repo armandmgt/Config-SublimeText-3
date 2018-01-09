@@ -1,0 +1,12 @@
+{
+	"extensions":
+	[
+		"hpp",
+		"cpp"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 8
+}

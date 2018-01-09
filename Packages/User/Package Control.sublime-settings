@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Babel Snippets",
+		"babel-sublime",
+		"C++ Snippets",
+		"Color Highlighter",
+		"ColorPicker",
+		"DoxyDoxygen",
+		"fish",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"Skins",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-gcc",
+		"SublimeLinter-rubocop",
+		"Unicode Character Insert"
+	],
+	"repositories":
+	[
+		"https://github.com/babel/babel-sublime"
+	]
+}

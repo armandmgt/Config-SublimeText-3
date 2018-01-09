@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+m"], "command": "markdown_preview_select", "args": {"target": "browser"} },
+	{ "keys": ["alt+h"], "command": "insert_snippet", "args": {"name": "Packages/User/C-C++-Heade.sublime-snippet"} }
+]
